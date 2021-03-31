@@ -37,7 +37,4 @@
   </style>
 </head>
 <body>
-    <div id="header">
-        <h1> Moe</h1>
-        <hr>
-    </div>
+  

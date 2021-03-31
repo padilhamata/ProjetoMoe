@@ -7,7 +7,13 @@ class Login extends BaseController{
         return view ('Login/index',$data);
     }
 
-    public function inscricao(){
-        return view('Login/Inscricao');
+    public function estagiario(){
+        $data['titulo']="Incrição";
+        return view('Login/Inscricao_estagiario',$data);
     }
+    public function empresa(){
+        $data['titulo']="Incrição";
+        return view('Login/Inscricao_empresa',$data);
+    }
+
 }

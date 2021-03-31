@@ -21,7 +21,7 @@
         </div>
       </div>
 <div class="row">
-<button class="btn waves-effect waves-light" type="submit" name="action">Submit
+<button class="btn waves-effect waves-light" type="submit" name="action">Enviar
     <i class="material-icons right">send</i>
   </button>
 <a href="#" class="btn waves-effect waves-light">Inscrever</a>
@@ -29,7 +29,7 @@
       <br>
       </form>
       </div>
-     
+    
 
 
        <!-- Compiled and minified JavaScript -->
